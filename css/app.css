@@ -28,7 +28,7 @@ body {
     text-transform: uppercase;
     text-decoration: none;
 }
-.menulist li a:hover{
+.menulist li:not(:first-child) a:hover{
     color: #EBC338;
     font-weight: bold;
     text-transform: uppercase;
