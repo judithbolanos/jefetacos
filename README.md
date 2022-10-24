@@ -3,12 +3,24 @@ Landing informativa  para "tacos el jefe" donde se puede consultar su menu y rel
 <p align="center">
   <img src="https://judithbl.com/uploads/landing-jefetacos.PNG" width="100%" />
 </p>
-## Logo
+
+# Logo
+
 Logo creado para el proyecto en canva
 <p align="center">
   <img src="https://judithbl.com/uploads/logo-jefetacos.png" />
 </p>
 
+imagenes tomadas de [unsplash](https://unsplash.com/es) 
+
+# Tecnologías usadas:
+
+
+- Html
+- Bootstrap
+- Css
+- Javascript
+- Vite
 
 
 # Demo de la landing
