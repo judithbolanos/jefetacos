@@ -1,0 +1,8 @@
+:root{
+    --size-xs:0;
+--size-sm:576px;
+--size-md: 768px;
+--size-lg: 992px;
+--size-xl: 1200px;
+--size-xxl: 1400px
+}

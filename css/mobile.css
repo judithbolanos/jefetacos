@@ -1,0 +1,19 @@
+@import "./variables.css";
+@media (max-width: var(--size-md)) {
+    .hero .logo{
+        width: 200px;
+        height: 200px;
+    }
+    .menulist{
+        list-style: none;
+        display: none;
+    }
+}
+
+@media (max-width: var(--size-sm)) {
+    .menulist{
+        list-style: none;
+        display: none;
+    }
+}
+
